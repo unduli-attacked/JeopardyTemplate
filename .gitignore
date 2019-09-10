@@ -1,1 +1,14 @@
 Java.gitignore
+*.bin
+*.lock
+*.bin
+*.xml
+*.tab
+*.len
+*.tab_i
+*.keystream
+*.at
+build/classes/kotlin/main/META-INF/JeopardyTemplate.kotlin_module
+.gradle/4.10.3/fileHashes/fileHashes.bin
+*.lock
+.gradle/4.10.3/taskHistory/taskHistory.bin
